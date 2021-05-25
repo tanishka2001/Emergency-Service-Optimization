@@ -1,0 +1,3 @@
+Enter lat and long of all customers over Delhi region.
+Clusturing and assign to nearest police chowki.
+All items assigned to police chowki find shortest hamiltonian path.
